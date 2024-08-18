@@ -26,7 +26,7 @@ This project is an image generator application that leverages the DALL-E 3 API t
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/image-generator.git
+   git clone https://github.com/vshksneha/image-generator.git
    cd image-generator
    ```
 
